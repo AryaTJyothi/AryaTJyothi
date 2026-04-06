@@ -8,7 +8,7 @@
 
 ##  About Me
 
-I am a passionate M.Sc Statistics with Data Science student currently working as a Data Science Intern at Acadeno Technologies Private Limited. I have a strong foundation in statistics, analytical thinking, and machine learning, and I enjoy transforming complex data into meaningful insights.
+I am a passionate M.Sc Statistics with Data Science student. I have a strong foundation in statistics, analytical thinking, and machine learning, and I enjoy transforming complex data into meaningful insights.
 
 My career goal is to become a Data Scientist, building intelligent, ethical, and data-driven solutions to solve real-world problems.
 
